@@ -1,5 +1,5 @@
 // Openweathermap API. Do not share it publicly.
-const api = '*********************'; //Replace with your API
+const api = '4a93849cea1c1575d2b0596b6e4553d8'; //Replace with your API
 
 const iconImg = document.getElementById('weather-icon');
 const loc = document.querySelector('#location');
